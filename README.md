@@ -13,7 +13,7 @@ Share some code that you’re proud of and that you feel showcases your abilitie
 
 ### Q&A
 
-Please respond to the following prompts:
+Please respond to the following prompts. Your responses don't have to be super long - aim to spend no more than 15 minutes on each question.
 
 1) What’s an idea or principle that you’ve learned that made you a better programmer? Why?
 
