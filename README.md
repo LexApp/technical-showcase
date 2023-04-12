@@ -13,11 +13,11 @@ Share some code that you’re proud of and that you feel showcases your abilitie
 
 ### Q&A
 
-Please respond to the following prompts. Your responses don't have to be super long - aim to spend no more than 15 minutes on each question.
+Please respond to the following prompts. Your responses don't have to be super long - don't spend more than 5-10 minutes on each question.
 
 1) What’s an idea or principle that you’ve learned that made you a better programmer? Why?
 
-2) Pick a language or framework you’re familiar with and talk about it a little - why do you love or hate it? What things is it well suited for? Could it be improved?
+2) Two technologies we use are nodejs and typescript. What do you like or dislike about these and their eco-systems? What things are they well suited for? Could they be improved?
 
 3) The product team comes to you and says they want you to implement group chat in the app. What questions would you ask? What technical challenges do you foresee and how could you mitigate them?
 
