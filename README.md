@@ -4,10 +4,13 @@ Thanks for applying to work at Lex! Next we’d like to learn a little more abou
 
 ### Code submission
 
-Share some code that you’re proud of and that you feel showcases your abilities.
+Share some code that you’re proud of :)
+
+We'd like to get a sense of your abilities and coding style without requiring you to invest a ton of time into a take-home project, so you're encouraged to submit existing code from a previous project, although you can also write something new if you'd like.
 - It should be either something you alone wrote, or if you collaborated with others on it, please describe the collaboration and point us to a piece of it that you alone wrote.
 - It can be in any language, and does not have to relate to Lex or mobile app development at all.
 - We’re looking at the code itself - don’t worry about the state of the repository or if it’s deployed or not.
+- It can be something you already have from a previous project, or something new.
 - Include a summary or readme that gives context to the project. Tell us why you picked it, and elaborate on how you could further improve it.
 - Directly send or provide access to your submission however you’d like. If you’d like to share a private repo, invite [`@junebugfix`](https://github.com/junebugfix) to it.
 
